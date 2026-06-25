@@ -1,0 +1,550 @@
+﻿Division,District,Thana / Upazila,Primary Sector,Sub-Activity (Dominant Livelihood),FMCG Trade Class,Market Classification
+Dhaka,Dhaka,Adabor,Services,Residential / small business,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Badda,Industry,Garments / commercial hub,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Bangshal,Services,Hardware & wholesale trade,General Trade,Urban
+Dhaka,Dhaka,Cantonment,Services,Defence / institutional,Modern Trade,Urban
+Dhaka,Dhaka,Chawkbazar,Services,Wholesale cloth & commodities,General Trade,Urban
+Dhaka,Dhaka,Dakshinkhan,Services,Residential / emerging commercial,General Trade,Semi-Urban
+Dhaka,Dhaka,Demra,Industry,Garments / manufacturing,Industrial GT,Semi-Urban
+Dhaka,Dhaka,Dhanmondi,Services,Education / retail / F&B,Modern Trade,Urban
+Dhaka,Dhaka,Gulshan,Services,Diplomatic / corporate / high-end retail,Modern Trade,Urban
+Dhaka,Dhaka,Hazaribagh,Industry,Tannery / chemical processing,General Trade,Urban
+Dhaka,Dhaka,Jatrabari,Services,Wholesale market / transport hub,General Trade,Urban
+Dhaka,Dhaka,Kafrul,Services,Residential / institutional,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Kadamtali,Industry,Small industry / auto parts,General Trade,Urban
+Dhaka,Dhaka,Kalabagan,Services,Residential / retail,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Kamrangirchar,Industry,Garments / dyeing,General Trade,Urban
+Dhaka,Dhaka,Khilgaon,Services,Residential / mixed retail,General Trade,Urban
+Dhaka,Dhaka,Khilkhet,Services,Residential / commercial,Mixed (GT+MT),Semi-Urban
+Dhaka,Dhaka,Kotwali,Services,Old city wholesale / retail,General Trade,Urban
+Dhaka,Dhaka,Lalbagh,Services,Old Dhaka trade / wholesale,General Trade,Urban
+Dhaka,Dhaka,Mirpur,Agriculture,Rice & sugarcane,General Trade,Rural
+Dhaka,Dhaka,Mohammadpur,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Dhaka,Motijheel,Services,Banking / corporate / commercial,Modern Trade,Urban
+Dhaka,Dhaka,Mugda,Services,Residential / mixed retail,General Trade,Urban
+Dhaka,Dhaka,New Market,Services,Retail / shopping,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Pallabi,Services,Residential / retail,Mixed (GT+MT),Urban
+Dhaka,Dhaka,Paltan,Services,Media / corporate / hotel,Modern Trade,Urban
+Dhaka,Dhaka,Ramna,Services,Government / park / institutional,Modern Trade,Urban
+Dhaka,Dhaka,Rayer Bazar,Services,Potters / small craft / residential,General Trade,Semi-Urban
+Dhaka,Dhaka,Sabujbagh,Services,Residential / small trade,General Trade,Urban
+Dhaka,Dhaka,Shah Ali,Services,Residential / commercial,General Trade,Semi-Urban
+Dhaka,Dhaka,Shahjahanpur,Services,Railway colony / residential,General Trade,Urban
+Dhaka,Dhaka,Shyampur,Industry,Jute / textile / industry,Industrial GT,Urban
+Dhaka,Dhaka,Sutrapur,Services,Old Dhaka wholesale / river trade,General Trade,Urban
+Dhaka,Dhaka,Tejgaon,Industry,Manufacturing / media / commercial,Industrial GT,Urban
+Dhaka,Dhaka,Tejgaon Industrial Area,Industry,Heavy industry / warehouse,Industrial GT,Urban
+Dhaka,Dhaka,Turag,Industry,Garments / industrial zone,Industrial GT,Semi-Urban
+Dhaka,Dhaka,Uttara,Services,Residential / commercial / airport hub,Modern Trade,Urban
+Dhaka,Dhaka,Uttarkhan,Services,Residential / emerging,General Trade,Semi-Urban
+Dhaka,Dhaka,Vatara,Services,Residential / IT/tech hub,Mixed (GT+MT),Semi-Urban
+Dhaka,Dhaka,Wari,Services,Old Dhaka residential / trade,General Trade,Urban
+Dhaka,Dhaka,Dohar,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Dhaka,Keraniganj,Industry,Garments / brick kilns / river trade,Industrial GT,Semi-Urban
+Dhaka,Dhaka,Nawabganj,Agriculture,Rice / mango farming,General Trade,Rural
+Dhaka,Dhaka,Savar,Industry,EPZ / garments / manufacturing,Industrial GT,Semi-Urban
+Dhaka,Gazipur,Gazipur Sadar,Industry,Garments / EPZ / industrial hub,Mixed (GT+MT),Semi-Urban
+Dhaka,Gazipur,Kaliakair,Industry,Hi-tech park / garments / industry,Industrial GT,Semi-Urban
+Dhaka,Gazipur,Kaliganj,Agriculture,Shrimp / rice / fishing,General Trade,Rural
+Dhaka,Gazipur,Kapasia,Agriculture,Rice / pineapple farming,General Trade,Rural
+Dhaka,Gazipur,Sreepur,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Narayanganj,Araihazar,Agriculture,Rice farming / small trade,General Trade,Rural
+Dhaka,Narayanganj,Bandar,Industry,Seaport / ship breaking / trade,Industrial GT,Urban
+Dhaka,Narayanganj,Narayanganj Sadar,Industry,Textile / yarn / river port / trade,Mixed (GT+MT),Urban
+Dhaka,Narayanganj,Rupganj,Industry,Garments / textile / manufacturing,Industrial GT,Semi-Urban
+Dhaka,Narayanganj,Sonargaon,Agriculture,Rice / handloom weaving,General Trade,Rural
+Dhaka,Narsingdi,Belabo,Agriculture,Rice / vegetable farming,General Trade,Rural
+Dhaka,Narsingdi,Monohardi,Agriculture,Rice & seasonal crops,General Trade,Rural
+Dhaka,Narsingdi,Narsingdi Sadar,Industry,Textile / hosiery / trade,General Trade,Semi-Urban
+Dhaka,Narsingdi,Palash,Industry,Fertiliser / heavy chemical plant,Industrial GT,Semi-Urban
+Dhaka,Narsingdi,Raipura,Agriculture,Rice / fishing,General Trade,Rural
+Dhaka,Narsingdi,Shibpur,Agriculture,Rice farming / small trade,General Trade,Rural
+Dhaka,Manikganj,Daulatpur,Industry,Jute mill / industrial area,Industrial GT,Urban
+Dhaka,Manikganj,Ghior,Agriculture,Rice & seasonal crops,General Trade,Rural
+Dhaka,Manikganj,Harirampur,Agriculture,Rice / char land cultivation,General Trade,Rural
+Dhaka,Manikganj,Manikganj Sadar,Services,Trade & small industry,General Trade,Semi-Urban
+Dhaka,Manikganj,Saturia,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Manikganj,Shivalaya,Agriculture,Rice / fishing,General Trade,Rural
+Dhaka,Manikganj,Singair,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Munshiganj,Gazaria,Industry,Shipbuilding / river trade,Industrial GT,Semi-Urban
+Dhaka,Munshiganj,Louhajang,Agriculture,Rice farming / fishing,General Trade,Rural
+Dhaka,Munshiganj,Munshiganj Sadar,Services,Trade / ferry hub,General Trade,Semi-Urban
+Dhaka,Munshiganj,Sirajdikhan,Agriculture,Rice & mustard farming,General Trade,Rural
+Dhaka,Munshiganj,Sreenagar,Agriculture,Rice farming / small trade,General Trade,Rural
+Dhaka,Munshiganj,Tongibari,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Rajbari,Baliakandi,Agriculture,Rice / jute / sugar cane,General Trade,Rural
+Dhaka,Rajbari,Goalandaghat,Services,River ferry / transit trade,General Trade,Semi-Urban
+Dhaka,Rajbari,Kalukhali,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Rajbari,Pangsha,Agriculture,Rice & jute farming,General Trade,Rural
+Dhaka,Rajbari,Rajbari Sadar,Services,Trade / small industry,General Trade,Semi-Urban
+Dhaka,Shariatpur,Bhedarganj,Agriculture,Rice & fishing,General Trade,Rural
+Dhaka,Shariatpur,Damudya,Agriculture,Rice farming / small trade,General Trade,Rural
+Dhaka,Shariatpur,Gosairhat,Agriculture,Rice & fishing,General Trade,Rural
+Dhaka,Shariatpur,Naria,Agriculture,Rice farming / fishing,General Trade,Rural
+Dhaka,Shariatpur,Shariatpur Sadar,Services,Trade / small industry,General Trade,Semi-Urban
+Dhaka,Shariatpur,Zanjira,Agriculture,Rice / fishing / char farming,General Trade,Rural
+Dhaka,Faridpur,Alfadanga,Agriculture,Rice & jute farming,General Trade,Rural
+Dhaka,Faridpur,Bhanga,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Faridpur,Boalmari,Agriculture,Rice / jute,General Trade,Rural
+Dhaka,Faridpur,Charbhadrasan,Agriculture,Rice / char cultivation,General Trade,Rural
+Dhaka,Faridpur,Faridpur Sadar,Services,Trade / education / agro-processing,General Trade,Semi-Urban
+Dhaka,Faridpur,Madhukhali,Agriculture,Rice & sugarcane,General Trade,Rural
+Dhaka,Faridpur,Nagarkanda,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Faridpur,Sadarpur,Agriculture,Rice & jute,General Trade,Rural
+Dhaka,Faridpur,Saltha,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Gopalganj,Gopalganj Sadar,Agriculture,Rice / fishing / aquaculture,General Trade,Semi-Urban
+Dhaka,Gopalganj,Kashiani,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Gopalganj,Kotalipara,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Gopalganj,Muksudpur,Agriculture,Rice / jute / fishing,General Trade,Rural
+Dhaka,Gopalganj,Tungipara,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Madaripur,Kalkini,Agriculture,Rice / fishing,General Trade,Rural
+Dhaka,Madaripur,Madaripur Sadar,Services,Trade & small industry,General Trade,Semi-Urban
+Dhaka,Madaripur,Rajoir,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Madaripur,Shibchar,Agriculture,Rice / fishing / char cultivation,General Trade,Rural
+Dhaka,Kishoreganj,Austagram,Agriculture,Rice / haor fishing,General Trade,Rural
+Dhaka,Kishoreganj,Bajitpur,Industry,Pottery / small trade,General Trade,Semi-Urban
+Dhaka,Kishoreganj,Bhairab,Industry,River port / trade / small industry,General Trade,Semi-Urban
+Dhaka,Kishoreganj,Hossainpur,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Kishoreganj,Itna,Agriculture,Rice / haor fishing,General Trade,Rural
+Dhaka,Kishoreganj,Karimganj,Agriculture,Rice farming / small trade,General Trade,Rural
+Dhaka,Kishoreganj,Katiadi,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Kishoreganj,Kishoreganj Sadar,Services,Trade / education / services,General Trade,Semi-Urban
+Dhaka,Kishoreganj,Kuliarchar,Agriculture,Rice / haor fishing,General Trade,Rural
+Dhaka,Kishoreganj,Mithamain,Agriculture,Haor fishing / rice,General Trade,Rural
+Dhaka,Kishoreganj,Nikli,Agriculture,Haor fishing / rice,General Trade,Rural
+Dhaka,Kishoreganj,Pakundia,Agriculture,Rice & jute farming,General Trade,Rural
+Dhaka,Kishoreganj,Tarail,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Tangail,Basail,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Tangail,Bhuapur,Agriculture,Rice / banana cultivation,General Trade,Rural
+Dhaka,Tangail,Delduar,Agriculture,Rice farming / handloom,General Trade,Rural
+Dhaka,Tangail,Dhanbari,Industry,Tea / small industry,General Trade,Rural
+Dhaka,Tangail,Ghatail,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Tangail,Gopalpur,Agriculture,Rice farming,General Trade,Rural
+Dhaka,Tangail,Kalihati,Agriculture,Rice & jute farming,General Trade,Rural
+Dhaka,Tangail,Madhupur,Agriculture,Pineapple / banana / indigenous crops,General Trade,Rural
+Dhaka,Tangail,Mirzapur,Industry,Cement / brick / agro-processing,Industrial GT,Semi-Urban
+Dhaka,Tangail,Nagarpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Dhaka,Tangail,Sakhipur,Agriculture,Rice / forest produce,General Trade,Rural
+Dhaka,Tangail,Tangail Sadar,Services,Trade / handloom / education,General Trade,Semi-Urban
+Chattogram,Chattogram,Akbar Shah,Services,Port-related / residential,General Trade,Urban
+Chattogram,Chattogram,Bakalia,Services,Dense residential / retail,General Trade,Urban
+Chattogram,Chattogram,Bandar,Industry,Seaport / ship breaking / trade,Industrial GT,Urban
+Chattogram,Chattogram,Bayazid,Services,Residential / retail,General Trade,Urban
+Chattogram,Chattogram,Chandgaon,Services,Residential / commercial,Mixed (GT+MT),Urban
+Chattogram,Chattogram,Double Mooring,Services,Port city commercial / wholesale,General Trade,Urban
+Chattogram,Chattogram,EPZ,Industry,Export processing zone / garments,Industrial GT,Urban
+Chattogram,Chattogram,Halishahar,Services,Residential / port-adjacent,General Trade,Urban
+Chattogram,Chattogram,Khulshi,Services,Upscale residential / corporate,Modern Trade,Urban
+Chattogram,Chattogram,Kotwali,Services,Old city wholesale / retail,General Trade,Urban
+Chattogram,Chattogram,Pahartali,Industry,Railway / industrial / residential,Industrial GT,Urban
+Chattogram,Chattogram,Panchlaish,Services,Corporate / residential / retail,Modern Trade,Urban
+Chattogram,Chattogram,Patenga,Industry,Airport / beach tourism / port,Mixed (GT+MT),Urban
+Chattogram,Chattogram,Sadarghat,Services,River port / wholesale trade,General Trade,Urban
+Chattogram,Chattogram,Sitakunda (urban),Industry,Ship breaking / chemical / industry,Industrial GT,Semi-Urban
+Chattogram,Chattogram,Anwara,Industry,Ship breaking / salt production,Industrial GT,Rural
+Chattogram,Chattogram,Banshkhali,Agriculture,Paddy / salt / fishing,General Trade,Rural
+Chattogram,Chattogram,Boalkhali,Agriculture,Rice farming / small trade,General Trade,Rural
+Chattogram,Chattogram,Chandanaish,Agriculture,Rice / vegetable farming,General Trade,Rural
+Chattogram,Chattogram,Fatikchhari,Agriculture,Rice / hill crops,General Trade,Rural
+Chattogram,Chattogram,Hathazari,Agriculture,Rice farming / poultry,General Trade,Semi-Urban
+Chattogram,Chattogram,Lohagara,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Chattogram,Mirsharai,Industry,Economic zone / cement / fishing,Industrial GT,Semi-Urban
+Chattogram,Chattogram,Patiya,Agriculture,Rice / vegetable / poultry,General Trade,Semi-Urban
+Chattogram,Chattogram,Rangunia,Agriculture,Rice / rubber / tea,General Trade,Rural
+Chattogram,Chattogram,Raozan,Agriculture,Rice farming / brick kilns,General Trade,Rural
+Chattogram,Chattogram,Sandwip,Agriculture,Rice / fishing / salt,General Trade,Rural
+Chattogram,Chattogram,Satkania,Agriculture,Rice / betel nut,General Trade,Rural
+Chattogram,Chattogram,Sitakunda,Industry,Ship breaking / chemical industry,Industrial GT,Semi-Urban
+Chattogram,Cox's Bazar,Chakaria,Agriculture,Rice / shrimp / salt production,General Trade,Rural
+Chattogram,Cox's Bazar,Cox's Bazar Sadar,Services,Tourism / hotel / fishing,Mixed (GT+MT),Semi-Urban
+Chattogram,Cox's Bazar,Kutubdia,Agriculture,Salt / fishing,General Trade,Rural
+Chattogram,Cox's Bazar,Maheshkhali,Industry,LNG terminal / salt / shrimp,Industrial GT,Rural
+Chattogram,Cox's Bazar,Pekua,Agriculture,Shrimp / salt / rice,General Trade,Rural
+Chattogram,Cox's Bazar,Ramu,Agriculture,Rice / rubber / fishing,General Trade,Rural
+Chattogram,Cox's Bazar,Teknaf,Services,Border trade / fishing / tourism,General Trade,Rural
+Chattogram,Cox's Bazar,Ukhia,Services,Humanitarian / refugee services / farming,General Trade,Rural
+Chattogram,Comilla,Barura,Agriculture,Rice / vegetable farming,General Trade,Rural
+Chattogram,Comilla,Brahmanpara,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Comilla,Burichang,Agriculture,Rice farming / small trade,General Trade,Rural
+Chattogram,Comilla,Chandina,Services,Trade / small industry,General Trade,Semi-Urban
+Chattogram,Comilla,Chauddagram,Agriculture,Rice / vegetable farming,General Trade,Rural
+Chattogram,Comilla,Comilla Sadar,Services,Trade / education / EPZ-adjacent,Mixed (GT+MT),Urban
+Chattogram,Comilla,Comilla Sadar South,Agriculture,Rice & vegetable farming,General Trade,Semi-Urban
+Chattogram,Comilla,Daudkandi,Services,River port / transit trade,General Trade,Semi-Urban
+Chattogram,Comilla,Debidwar,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Comilla,Homna,Agriculture,Rice farming / fishing,General Trade,Rural
+Chattogram,Comilla,Laksam,Services,Trade / railway junction,General Trade,Semi-Urban
+Chattogram,Comilla,Lalmai,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Comilla,Meghna,Agriculture,Rice / fishing,General Trade,Rural
+Chattogram,Comilla,Monoharganj,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Comilla,Muradnagar,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Comilla,Nangalkot,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Comilla,Titas,Industry,Gas field / small trade,Industrial GT,Semi-Urban
+Chattogram,Feni,Chhagalnaiya,Agriculture,Rice / vegetable farming,General Trade,Rural
+Chattogram,Feni,Daganbhuiyan,Agriculture,Rice / salt / fishing,General Trade,Rural
+Chattogram,Feni,Feni Sadar,Services,Trade / education / remittance economy,General Trade,Semi-Urban
+Chattogram,Feni,Parshuram,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Feni,Sonagazi,Agriculture,Rice / salt production,General Trade,Rural
+Chattogram,Feni,Fulgazi,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Noakhali,Begumganj,Agriculture,Rice / vegetable / poultry,General Trade,Rural
+Chattogram,Noakhali,Chatkhil,Agriculture,Rice farming / small trade,General Trade,Rural
+Chattogram,Noakhali,Companiganj,Agriculture,Stone / sand quarrying / rice,General Trade,Rural
+Chattogram,Noakhali,Hatiya,Agriculture,Rice / fishing / salt,General Trade,Rural
+Chattogram,Noakhali,Kabir Hat,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Noakhali,Noakhali Sadar,Services,Trade / education / services,General Trade,Semi-Urban
+Chattogram,Noakhali,Senbagh,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Noakhali,Sonaimuri,Agriculture,Rice / vegetable farming,General Trade,Rural
+Chattogram,Noakhali,Subarna Char,Agriculture,Rice / char land farming,General Trade,Rural
+Chattogram,Lakshmipur,Kamalnagar,Agriculture,Rice / fishing / char farming,General Trade,Rural
+Chattogram,Lakshmipur,Lakshmipur Sadar,Services,Trade / small industry / remittance,General Trade,Semi-Urban
+Chattogram,Lakshmipur,Ramganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Lakshmipur,Ramgati,Agriculture,Rice / fishing / char farming,General Trade,Rural
+Chattogram,Lakshmipur,Roypur,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Chandpur,Chandpur Sadar,Services,River port / wholesale fish / trade,General Trade,Semi-Urban
+Chattogram,Chandpur,Faridganj,Agriculture,Rice farming / fishing,General Trade,Rural
+Chattogram,Chandpur,Haimchar,Agriculture,Rice / char cultivation,General Trade,Rural
+Chattogram,Chandpur,Hajiganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Chandpur,Kachua,Agriculture,Rice farming / fishing,General Trade,Rural
+Chattogram,Chandpur,Matlab North,Agriculture,Rice / fishing,General Trade,Rural
+Chattogram,Chandpur,Matlab South,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Chandpur,Shahrasti,Agriculture,Rice farming / small trade,General Trade,Rural
+Chattogram,Brahmanbaria,Akhaura,Services,Land port / border trade,General Trade,Semi-Urban
+Chattogram,Brahmanbaria,Ashuganj,Industry,Power plant / gas / fertiliser,Industrial GT,Semi-Urban
+Chattogram,Brahmanbaria,Bancharampur,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Brahmanbaria,Brahmanbaria Sadar,Services,Trade / education / handloom,General Trade,Semi-Urban
+Chattogram,Brahmanbaria,Kasba,Agriculture,Rice & vegetable farming,General Trade,Rural
+Chattogram,Brahmanbaria,Nabinagar,Agriculture,Rice farming / handloom,General Trade,Rural
+Chattogram,Brahmanbaria,Nasirnagar,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Brahmanbaria,Sarail,Agriculture,Rice farming / small trade,General Trade,Rural
+Chattogram,Brahmanbaria,Bijoynagar,Agriculture,Rice farming,General Trade,Rural
+Chattogram,Rangamati,Baghaichhari,Agriculture,Hill paddy / jhum / timber,General Trade,Rural
+Chattogram,Rangamati,Barkal,Agriculture,Jhum cultivation / timber,General Trade,Rural
+Chattogram,Rangamati,Juraichhari,Agriculture,Jhum cultivation / fishing,General Trade,Rural
+Chattogram,Rangamati,Kaptai,Industry,Hydro power / timber / tourism,General Trade,Rural
+Chattogram,Rangamati,Kaukhali,Agriculture,Jhum / fruit cultivation,General Trade,Rural
+Chattogram,Rangamati,Langadu,Agriculture,Jhum / hill crops / fishing,General Trade,Rural
+Chattogram,Rangamati,Naniarchar,Agriculture,Jhum cultivation / timber,General Trade,Rural
+Chattogram,Rangamati,Rajasthali,Agriculture,Jhum / fruit cultivation,General Trade,Rural
+Chattogram,Rangamati,Rangamati Sadar,Services,Tourism / admin / small trade,General Trade,Semi-Urban
+Chattogram,Rangamati,Bilaichhari,Agriculture,Jhum / hill crops,General Trade,Rural
+Chattogram,Khagrachhari,Dighinala,Agriculture,Hill paddy / jhum / timber,General Trade,Rural
+Chattogram,Khagrachhari,Guimara,Agriculture,Jhum / fruit cultivation,General Trade,Rural
+Chattogram,Khagrachhari,Khagrachhari Sadar,Services,Trade / admin / small industry,General Trade,Semi-Urban
+Chattogram,Khagrachhari,Lakshmichhari,Agriculture,Jhum cultivation,General Trade,Rural
+Chattogram,Khagrachhari,Mahalchhari,Agriculture,Jhum / hill crops / fishing,General Trade,Rural
+Chattogram,Khagrachhari,Manikchhari,Agriculture,Tea / jhum / timber,General Trade,Rural
+Chattogram,Khagrachhari,Matiranga,Agriculture,Tea / rubber / jhum,General Trade,Rural
+Chattogram,Khagrachhari,Panchhari,Agriculture,Jhum / hill crops,General Trade,Rural
+Chattogram,Khagrachhari,Ramgarh,Agriculture,Rubber / jhum / border trade,General Trade,Rural
+Chattogram,Bandarban,Ali Kadam,Agriculture,Jhum / hill paddy,General Trade,Rural
+Chattogram,Bandarban,Bandarban Sadar,Services,Tourism / admin / small trade,General Trade,Semi-Urban
+Chattogram,Bandarban,Lama,Agriculture,Jhum / timber / fruit,General Trade,Rural
+Chattogram,Bandarban,Naikhongchhari,Agriculture,Jhum cultivation / hill crops,General Trade,Rural
+Chattogram,Bandarban,Rowangchhari,Agriculture,Jhum / timber,General Trade,Rural
+Chattogram,Bandarban,Ruma,Agriculture,Jhum / ecotourism,General Trade,Rural
+Chattogram,Bandarban,Thanchi,Agriculture,Jhum / ecotourism,General Trade,Rural
+Rajshahi,Rajshahi,Boalia,Services,Commercial / education / services,Mixed (GT+MT),Urban
+Rajshahi,Rajshahi,Motihar,Services,University / residential,Modern Trade,Urban
+Rajshahi,Rajshahi,Rajpara,Services,Residential / retail,Mixed (GT+MT),Urban
+Rajshahi,Rajshahi,Shah Makhdum,Services,Residential / trade,General Trade,Urban
+Rajshahi,Rajshahi,Bagha,Agriculture,Mango / litchi / rice,General Trade,Rural
+Rajshahi,Rajshahi,Bagmara,Agriculture,Rice / wheat / silk,General Trade,Rural
+Rajshahi,Rajshahi,Charghat,Agriculture,Rice / mango / sugarcane,General Trade,Rural
+Rajshahi,Rajshahi,Durgapur,Agriculture,Rice / haor fishing / stone quarry,General Trade,Rural
+Rajshahi,Rajshahi,Godagari,Agriculture,Mango / rice / silk,General Trade,Rural
+Rajshahi,Rajshahi,Mohanpur,Agriculture,Rice / vegetable farming,General Trade,Rural
+Rajshahi,Rajshahi,Paba,Services,Residential / semi-urban trade,General Trade,Semi-Urban
+Rajshahi,Rajshahi,Puthia,Agriculture,Rice / vegetable farming,General Trade,Rural
+Rajshahi,Rajshahi,Tanore,Agriculture,Rice / mango / silk,General Trade,Rural
+Rajshahi,Bogura,Adamdighi,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Bogura,Bogura Sadar,Services,Trade / agro-processing / education,Mixed (GT+MT),Semi-Urban
+Rajshahi,Bogura,Dhunat,Agriculture,Rice / jute / vegetable,General Trade,Rural
+Rajshahi,Bogura,Dhupchanchia,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Bogura,Gabtali,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Bogura,Kahaloo,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Bogura,Nandigram,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Bogura,Sariakandi,Agriculture,Rice / char cultivation,General Trade,Rural
+Rajshahi,Bogura,Shajahanpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Bogura,Sherpur,Agriculture,Rice / jute farming,General Trade,Rural
+Rajshahi,Bogura,Shibganj,Agriculture,Mango / rice / silk,General Trade,Rural
+Rajshahi,Bogura,Sonatala,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Chapai Nawabganj,Bholahat,Agriculture,Mango / rice farming,General Trade,Rural
+Rajshahi,Chapai Nawabganj,Chapai Nawabganj Sadar,Agriculture,Mango / silk / border trade,General Trade,Semi-Urban
+Rajshahi,Chapai Nawabganj,Gomastapur,Agriculture,Mango / rice / silk,General Trade,Rural
+Rajshahi,Chapai Nawabganj,Nachole,Agriculture,Mango / rice farming,General Trade,Rural
+Rajshahi,Chapai Nawabganj,Shibganj,Agriculture,Mango / rice / silk,General Trade,Rural
+Rajshahi,Naogaon,Atrai,Agriculture,Rice / sugarcane farming,General Trade,Rural
+Rajshahi,Naogaon,Badalgachhi,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Naogaon,Dhamoirhat,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Naogaon,Mahadebpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Naogaon,Manda,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Naogaon,Mohadevpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Naogaon,Naogaon Sadar,Services,Agro-trade / education,General Trade,Semi-Urban
+Rajshahi,Naogaon,Niamatpur,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Naogaon,Patnitala,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Naogaon,Porsha,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Naogaon,Raninagar,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Natore,Bagatipara,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Natore,Baraigram,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Natore,Gurudaspur,Agriculture,Rice & sugarcane,General Trade,Rural
+Rajshahi,Natore,Lalpur,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Natore,Natore Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Rajshahi,Natore,Singra,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Pabna,Atgharia,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Pabna,Bera,Agriculture,Rice / sugarcane,General Trade,Rural
+Rajshahi,Pabna,Bhangura,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Pabna,Chatmohar,Agriculture,Rice farming,General Trade,Rural
+Rajshahi,Pabna,Faridpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Pabna,Ishwardi,Industry,Sugar mill / EPZ / railway hub,Industrial GT,Semi-Urban
+Rajshahi,Pabna,Pabna Sadar,Services,Trade / handloom / education,General Trade,Semi-Urban
+Rajshahi,Pabna,Santhia,Agriculture,Rice / sugarcane,General Trade,Rural
+Rajshahi,Pabna,Sujanagar,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Sirajganj,Belkuchi,Industry,Handloom / textile weaving,General Trade,Semi-Urban
+Rajshahi,Sirajganj,Chauhali,Agriculture,Rice / char cultivation,General Trade,Rural
+Rajshahi,Sirajganj,Kamarkhanda,Industry,Handloom / weaving,General Trade,Rural
+Rajshahi,Sirajganj,Kazipur,Agriculture,Rice / char farming,General Trade,Rural
+Rajshahi,Sirajganj,Raiganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Sirajganj,Shahjadpur,Industry,Handloom / textile / trade,General Trade,Semi-Urban
+Rajshahi,Sirajganj,Sirajganj Sadar,Industry,Handloom / trade / services,General Trade,Semi-Urban
+Rajshahi,Sirajganj,Tarash,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rajshahi,Sirajganj,Ullahpara,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Khulna,Daulatpur,Industry,Jute mill / industrial area,Industrial GT,Urban
+Khulna,Khulna,Khan Jahan Ali,Services,Port-adjacent / residential,General Trade,Urban
+Khulna,Khulna,Khalishpur,Industry,Jute / textile mill / industrial,Industrial GT,Urban
+Khulna,Khulna,Khulna Sadar,Services,Commercial / wholesale / services,Mixed (GT+MT),Urban
+Khulna,Khulna,Sonadanga,Services,Residential / commercial hub,Mixed (GT+MT),Urban
+Khulna,Khulna,Aira,Agriculture,Shrimp / rice farming,General Trade,Rural
+Khulna,Khulna,Batiaghata,Agriculture,Shrimp / rice farming,General Trade,Rural
+Khulna,Khulna,Dacope,Agriculture,Shrimp / mangrove / fishing,General Trade,Rural
+Khulna,Khulna,Dighalia,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Khulna,Dumuria,Agriculture,Shrimp / rice / aquaculture,General Trade,Rural
+Khulna,Khulna,Koyra,Agriculture,Shrimp / Sundarbans fishing,General Trade,Rural
+Khulna,Khulna,Paikgachha,Agriculture,Shrimp / salt / rice,General Trade,Rural
+Khulna,Khulna,Phultala,Industry,Small industry / residential,General Trade,Semi-Urban
+Khulna,Khulna,Rupsha,Industry,Industrial / port-adjacent,Industrial GT,Semi-Urban
+Khulna,Khulna,Terokhada,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Bagerhat,Bagerhat Sadar,Services,Trade / Sundarbans tourism,General Trade,Semi-Urban
+Khulna,Bagerhat,Chitalmari,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Bagerhat,Fakirhat,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Bagerhat,Kachua,Agriculture,Rice farming / fishing,General Trade,Rural
+Khulna,Bagerhat,Mollahat,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Bagerhat,Mongla,Industry,Sea port / Sundarbans / EPZ,Industrial GT,Semi-Urban
+Khulna,Bagerhat,Morrelganj,Agriculture,Rice / shrimp / fishing,General Trade,Rural
+Khulna,Bagerhat,Rampal,Industry,Power plant / shrimp / rice,Industrial GT,Rural
+Khulna,Bagerhat,Sarankhola,Agriculture,Sundarbans fishing / rice,General Trade,Rural
+Khulna,Satkhira,Assasuni,Agriculture,Shrimp / rice farming,General Trade,Rural
+Khulna,Satkhira,Debhata,Agriculture,Shrimp / rice,General Trade,Rural
+Khulna,Satkhira,Kalaroa,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Satkhira,Kaliganj,Agriculture,Shrimp / rice / fishing,General Trade,Rural
+Khulna,Satkhira,Satkhira Sadar,Services,Trade / shrimp processing,General Trade,Semi-Urban
+Khulna,Satkhira,Shyamnagar,Agriculture,Sundarbans fishing / shrimp,General Trade,Rural
+Khulna,Satkhira,Tala,Agriculture,Rice / shrimp farming,General Trade,Rural
+Khulna,Jessore,Abhaynagor,Industry,Jute mill / agro-processing,Industrial GT,Semi-Urban
+Khulna,Jessore,Bagherpara,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Jessore,Chaugachha,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Jessore,Jhikargachha,Agriculture,Rice / vegetable / border trade,General Trade,Rural
+Khulna,Jessore,Jessore Sadar,Services,Trade / transport / education,Mixed (GT+MT),Semi-Urban
+Khulna,Jessore,Keshabpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Jessore,Manirampur,Agriculture,Rice / vegetable farming,General Trade,Rural
+Khulna,Jessore,Sharsha,Agriculture,Rice / vegetable / border trade,General Trade,Rural
+Khulna,Narail,Kalia,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Narail,Lohagara,Agriculture,Rice farming,General Trade,Rural
+Khulna,Narail,Narail Sadar,Services,Trade / small industry,General Trade,Semi-Urban
+Khulna,Magura,Magura Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Khulna,Magura,Mohammadpur,Agriculture,Rice farming,General Trade,Rural
+Khulna,Magura,Shalikha,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Magura,Sreepur,Agriculture,Rice farming,General Trade,Rural
+Khulna,Jhenaidah,Harinakunda,Agriculture,Rice farming,General Trade,Rural
+Khulna,Jhenaidah,Jhenaidah Sadar,Services,Trade / agro-processing / services,General Trade,Semi-Urban
+Khulna,Jhenaidah,Kaliganj,Agriculture,Shrimp / rice / fishing,General Trade,Rural
+Khulna,Jhenaidah,Kotchandpur,Agriculture,Rice farming,General Trade,Rural
+Khulna,Jhenaidah,Maheshpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Jhenaidah,Shailkupa,Agriculture,Rice farming,General Trade,Rural
+Khulna,Kushtia,Bheramara,Industry,Power plant / ferry / trade,Industrial GT,Semi-Urban
+Khulna,Kushtia,Daulatpur,Industry,Jute mill / industrial area,Industrial GT,Urban
+Khulna,Kushtia,Khoksa,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Kushtia,Kumarkhali,Agriculture,Sugarcane / rice / silk,General Trade,Rural
+Khulna,Kushtia,Kushtia Sadar,Services,Trade / textile / education,Mixed (GT+MT),Semi-Urban
+Khulna,Kushtia,Mirpur,Agriculture,Rice & sugarcane,General Trade,Rural
+Khulna,Meherpur,Gangni,Agriculture,Rice / vegetable farming,General Trade,Rural
+Khulna,Meherpur,Meherpur Sadar,Agriculture,Rice / vegetable / border trade,General Trade,Semi-Urban
+Khulna,Meherpur,Mujib Nagar,Agriculture,Rice farming,General Trade,Rural
+Khulna,Chuadanga,Alamdanga,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Chuadanga,Chuadanga Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Khulna,Chuadanga,Damurhuda,Agriculture,Rice & vegetable farming,General Trade,Rural
+Khulna,Chuadanga,Jibannagar,Agriculture,Rice farming,General Trade,Rural
+Sylhet,Sylhet,Balaganj,Agriculture,Rice / tea / remittance economy,General Trade,Rural
+Sylhet,Sylhet,Beanibazar,Services,Remittance / trade / services,General Trade,Semi-Urban
+Sylhet,Sylhet,Bishwanath,Agriculture,Rice / tea / remittance,General Trade,Rural
+Sylhet,Sylhet,Companiganj,Agriculture,Stone / sand quarrying / rice,General Trade,Rural
+Sylhet,Sylhet,Fenchuganj,Industry,Gas / fertiliser plant,Industrial GT,Semi-Urban
+Sylhet,Sylhet,Golapganj,Agriculture,Rice / tea / remittance,General Trade,Rural
+Sylhet,Sylhet,Gowainghat,Agriculture,Stone quarrying / rice / tourism,General Trade,Rural
+Sylhet,Sylhet,Jaintiapur,Industry,Stone / sand / limestone quarrying,Industrial GT,Rural
+Sylhet,Sylhet,Kanaighat,Agriculture,Rice / tea / border trade,General Trade,Rural
+Sylhet,Sylhet,Osmani Nagar,Services,Remittance / residential / trade,General Trade,Semi-Urban
+Sylhet,Sylhet,Sylhet Sadar,Services,Trade / remittance / education / tea,Mixed (GT+MT),Urban
+Sylhet,Sylhet,Zakiganj,Agriculture,Rice / border trade / remittance,General Trade,Rural
+Sylhet,Sylhet,South Surma,Services,Residential / trade,General Trade,Semi-Urban
+Sylhet,Moulvibazar,Barlekha,Agriculture,Tea / rice farming,General Trade,Rural
+Sylhet,Moulvibazar,Juri,Agriculture,Tea / rice farming,General Trade,Rural
+Sylhet,Moulvibazar,Kamalganj,Agriculture,Tea / rubber plantation,General Trade,Rural
+Sylhet,Moulvibazar,Kulaura,Agriculture,Tea / rice / rubber,General Trade,Rural
+Sylhet,Moulvibazar,Moulvibazar Sadar,Services,Tea trade / tourism / services,General Trade,Semi-Urban
+Sylhet,Moulvibazar,Rajnagar,Agriculture,Tea / rice farming,General Trade,Rural
+Sylhet,Moulvibazar,Sreemangal,Agriculture,Tea / rubber / tourism,General Trade,Semi-Urban
+Sylhet,Habiganj,Ajmiriganj,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Habiganj,Bahubal,Agriculture,Tea / rice farming,General Trade,Rural
+Sylhet,Habiganj,Baniachong,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Habiganj,Chunarughat,Agriculture,Tea / rubber / rice,General Trade,Rural
+Sylhet,Habiganj,Habiganj Sadar,Services,Tea trade / services / agro-processing,General Trade,Semi-Urban
+Sylhet,Habiganj,Lakhai,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Habiganj,Madhabpur,Agriculture,Tea / rice farming,General Trade,Rural
+Sylhet,Habiganj,Nabiganj,Agriculture,Rice / haor fishing / gas field,General Trade,Rural
+Sylhet,Sunamganj,Bishwamvarpur,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Sunamganj,Chhatak,Industry,Cement / stone quarrying,Industrial GT,Semi-Urban
+Sylhet,Sunamganj,Derai,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Sunamganj,Dharampasha,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Sunamganj,Dowarabazar,Agriculture,Rice / stone quarrying,General Trade,Rural
+Sylhet,Sunamganj,Jagannathpur,Agriculture,Rice / haor fishing / remittance,General Trade,Rural
+Sylhet,Sunamganj,Jamalganj,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Sunamganj,Sulla,Agriculture,Haor fishing / rice,General Trade,Rural
+Sylhet,Sunamganj,Sunamganj Sadar,Services,Trade / haor fish market / services,General Trade,Semi-Urban
+Sylhet,Sunamganj,Tahirpur,Agriculture,Rice / haor fishing,General Trade,Rural
+Sylhet,Sunamganj,Shalla,Agriculture,Haor fishing / rice,General Trade,Rural
+Barishal,Barishal,Barishal Sadar,Services,River port / trade / education,Mixed (GT+MT),Urban
+Barishal,Barishal,Airport,Services,Residential / services,General Trade,Urban
+Barishal,Barishal,Banaripara,Agriculture,Rice / vegetable / fishing,General Trade,Rural
+Barishal,Barishal,Babuganj,Agriculture,Rice farming,General Trade,Rural
+Barishal,Barishal,Bakerganj,Agriculture,Rice / betel leaf / fishing,General Trade,Rural
+Barishal,Barishal,Belhara,Agriculture,Rice farming,General Trade,Rural
+Barishal,Barishal,Gaurnadi,Agriculture,Rice & vegetable farming,General Trade,Rural
+Barishal,Barishal,Hizla,Agriculture,Rice / char farming / fishing,General Trade,Rural
+Barishal,Barishal,Mehendiganj,Agriculture,Rice / char farming / fishing,General Trade,Rural
+Barishal,Barishal,Muladi,Agriculture,Rice farming / fishing,General Trade,Rural
+Barishal,Barishal,Wazirpur,Agriculture,Rice / betel leaf,General Trade,Rural
+Barishal,Bhola,Bhola Sadar,Services,Trade / char farming / fishing,General Trade,Semi-Urban
+Barishal,Bhola,Burhanuddin,Agriculture,Rice / char cultivation,General Trade,Rural
+Barishal,Bhola,Char Fasson,Agriculture,Rice / char land / fishing,General Trade,Rural
+Barishal,Bhola,Daulatkhan,Agriculture,Rice / char farming,General Trade,Rural
+Barishal,Bhola,Lalmohan,Agriculture,Rice / char cultivation,General Trade,Rural
+Barishal,Bhola,Manpura,Agriculture,Rice / char farming / fishing,General Trade,Rural
+Barishal,Bhola,Tazumuddin,Agriculture,Rice / char cultivation,General Trade,Rural
+Barishal,Patuakhali,Bauphal,Agriculture,Rice / fishing / char,General Trade,Rural
+Barishal,Patuakhali,Dashmina,Agriculture,Rice / fishing,General Trade,Rural
+Barishal,Patuakhali,Dumki,Agriculture,Rice farming,General Trade,Rural
+Barishal,Patuakhali,Galachipa,Agriculture,Rice / fishing / char,General Trade,Rural
+Barishal,Patuakhali,Kalapara,Agriculture,Fishing / salt / shrimp,General Trade,Rural
+Barishal,Patuakhali,Mirzaganj,Agriculture,Rice farming / fishing,General Trade,Rural
+Barishal,Patuakhali,Patuakhali Sadar,Services,River port / trade / fishing hub,General Trade,Semi-Urban
+Barishal,Patuakhali,Rangabali,Agriculture,Fishing / shrimp / salt,General Trade,Rural
+Barishal,Pirojpur,Bhandaria,Agriculture,Rice / coconut / fishing,General Trade,Rural
+Barishal,Pirojpur,Kawkhali,Agriculture,Rice farming,General Trade,Rural
+Barishal,Pirojpur,Mathbaria,Agriculture,Rice / coconut / fishing,General Trade,Rural
+Barishal,Pirojpur,Nazirpur,Agriculture,Rice farming / fishing,General Trade,Rural
+Barishal,Pirojpur,Nesarabad,Agriculture,Rice farming,General Trade,Rural
+Barishal,Pirojpur,Pirojpur Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Barishal,Pirojpur,Zianagar,Agriculture,Rice / fishing,General Trade,Rural
+Barishal,Jhalokati,Jhalokati Sadar,Services,River trade / small industry,General Trade,Semi-Urban
+Barishal,Jhalokati,Kathalia,Agriculture,Rice / coconut,General Trade,Rural
+Barishal,Jhalokati,Nalchity,Agriculture,Rice farming,General Trade,Rural
+Barishal,Jhalokati,Rajapur,Agriculture,Rice farming,General Trade,Rural
+Barishal,Barguna,Amtali,Agriculture,Rice / fishing / shrimp,General Trade,Rural
+Barishal,Barguna,Bamna,Agriculture,Rice farming / fishing,General Trade,Rural
+Barishal,Barguna,Barguna Sadar,Services,Trade / fishing / shrimp processing,General Trade,Semi-Urban
+Barishal,Barguna,Betagi,Agriculture,Rice farming,General Trade,Rural
+Barishal,Barguna,Pathorghata,Agriculture,Fishing / shrimp / rice,General Trade,Rural
+Barishal,Barguna,Taltali,Agriculture,Fishing / shrimp / salt,General Trade,Rural
+Rangpur,Rangpur,Rangpur Sadar,Services,Trade / agro-processing / education,Mixed (GT+MT),Semi-Urban
+Rangpur,Rangpur,Badarganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Rangpur,Gangachara,Agriculture,Rice / tobacco farming,General Trade,Rural
+Rangpur,Rangpur,Kaunia,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Rangpur,Mithapukur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Rangpur,Pirgachha,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Rangpur,Pirganj,Agriculture,Rice & tobacco farming,General Trade,Rural
+Rangpur,Rangpur,Taraganj,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Dinajpur,Birampur,Agriculture,Rice / wheat farming,General Trade,Rural
+Rangpur,Dinajpur,Birganj,Agriculture,Rice & wheat farming,General Trade,Rural
+Rangpur,Dinajpur,Biral,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Dinajpur,Bochaganj,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Dinajpur,Chirirbandar,Agriculture,Rice & wheat farming,General Trade,Rural
+Rangpur,Dinajpur,Dinajpur Sadar,Services,Trade / agro-processing / education,Mixed (GT+MT),Semi-Urban
+Rangpur,Dinajpur,Fulbari,Industry,Coal mine / agro-processing,Industrial GT,Semi-Urban
+Rangpur,Dinajpur,Ghoraghat,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Dinajpur,Hakimpur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Dinajpur,Kaharole,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Dinajpur,Khansama,Agriculture,Rice & wheat farming,General Trade,Rural
+Rangpur,Dinajpur,Nawabganj,Agriculture,Rice / mango farming,General Trade,Rural
+Rangpur,Dinajpur,Parbatipur,Industry,Railway hub / agro-processing,General Trade,Semi-Urban
+Rangpur,Gaibandha,Fulchhari,Agriculture,Rice / char cultivation,General Trade,Rural
+Rangpur,Gaibandha,Gaibandha Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Rangpur,Gaibandha,Gobindaganj,Agriculture,Rice & sugarcane / tobacco,General Trade,Rural
+Rangpur,Gaibandha,Palashbari,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Gaibandha,Sadullapur,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Gaibandha,Saghata,Agriculture,Rice / char cultivation,General Trade,Rural
+Rangpur,Gaibandha,Sundarganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Kurigram,Bhurungamari,Agriculture,Rice / char farming / border trade,General Trade,Rural
+Rangpur,Kurigram,Char Rajibpur,Agriculture,Rice / char cultivation,General Trade,Rural
+Rangpur,Kurigram,Chilmari,Agriculture,Rice / char / river port,General Trade,Rural
+Rangpur,Kurigram,Kurigram Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Rangpur,Kurigram,Nageshwari,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Kurigram,Phulbari,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Kurigram,Rajarhat,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Kurigram,Raumari,Agriculture,Rice / char farming,General Trade,Rural
+Rangpur,Kurigram,Ulipur,Agriculture,Rice / char cultivation,General Trade,Rural
+Rangpur,Lalmonirhat,Aditmari,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Lalmonirhat,Hatibandha,Agriculture,Rice farming / border trade,General Trade,Rural
+Rangpur,Lalmonirhat,Kaliganj,Agriculture,Shrimp / rice / fishing,General Trade,Rural
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Services,Trade / border / agro-processing,General Trade,Semi-Urban
+Rangpur,Lalmonirhat,Patgram,Agriculture,Rice / border trade,General Trade,Rural
+Rangpur,Nilphamari,Dimla,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Nilphamari,Domar,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Nilphamari,Jaldhaka,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Nilphamari,Kishoreganj,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Nilphamari,Nilphamari Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Rangpur,Nilphamari,Saidpur,Industry,Railway / EPZ / trade hub,Mixed (GT+MT),Semi-Urban
+Rangpur,Panchagarh,Atwari,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Panchagarh,Boda,Agriculture,Rice farming / tea,General Trade,Rural
+Rangpur,Panchagarh,Debiganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Panchagarh,Panchagarh Sadar,Services,Trade / tea / border,General Trade,Semi-Urban
+Rangpur,Panchagarh,Tetulia,Agriculture,Tea / rice / border trade,General Trade,Rural
+Rangpur,Thakurgaon,Baliadangi,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Thakurgaon,Haripur,Agriculture,Rice farming,General Trade,Rural
+Rangpur,Thakurgaon,Pirganj,Agriculture,Rice & tobacco farming,General Trade,Rural
+Rangpur,Thakurgaon,Ranisankail,Agriculture,Rice & vegetable farming,General Trade,Rural
+Rangpur,Thakurgaon,Thakurgaon Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Mymensingh,Mymensingh,Bhaluka,Industry,Garments / EPZ / industrial,Industrial GT,Semi-Urban
+Mymensingh,Mymensingh,Dhobaura,Agriculture,Rice / hill crops,General Trade,Rural
+Mymensingh,Mymensingh,Fulbaria,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Mymensingh,Gaffargaon,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Mymensingh,Gauripur,Agriculture,Rice & jute farming,General Trade,Rural
+Mymensingh,Mymensingh,Haluaghat,Agriculture,Rice / hill crops / fishing,General Trade,Rural
+Mymensingh,Mymensingh,Ishwarganj,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Mymensingh,Muktagachha,Agriculture,Rice / misti doi / small industry,General Trade,Semi-Urban
+Mymensingh,Mymensingh,Mymensingh Sadar,Services,Education / agro-trade / services,Mixed (GT+MT),Semi-Urban
+Mymensingh,Mymensingh,Nandail,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Mymensingh,Phulpur,Agriculture,Rice & jute farming,General Trade,Rural
+Mymensingh,Mymensingh,Trishal,Agriculture,Rice / vegetable / small trade,General Trade,Rural
+Mymensingh,Mymensingh,Tarakanda,Agriculture,Rice farming,General Trade,Rural
+Mymensingh,Jamalpur,Bakshiganj,Agriculture,Rice / char cultivation,General Trade,Rural
+Mymensingh,Jamalpur,Dewanganj,Agriculture,Rice / char farming,General Trade,Rural
+Mymensingh,Jamalpur,Islampur,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Jamalpur,Jamalpur Sadar,Services,Trade / agro-processing / education,General Trade,Semi-Urban
+Mymensingh,Jamalpur,Madarganj,Agriculture,Rice farming,General Trade,Rural
+Mymensingh,Jamalpur,Melandaha,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Jamalpur,Sarishabari,Industry,Handloom / weaving / small trade,General Trade,Semi-Urban
+Mymensingh,Netrokona,Atpara,Agriculture,Rice farming,General Trade,Rural
+Mymensingh,Netrokona,Barhatta,Agriculture,Rice farming,General Trade,Rural
+Mymensingh,Netrokona,Durgapur,Agriculture,Rice / haor fishing / stone quarry,General Trade,Rural
+Mymensingh,Netrokona,Kalmakanda,Agriculture,Rice / hill crops,General Trade,Rural
+Mymensingh,Netrokona,Kendua,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Netrokona,Khaliajuri,Agriculture,Haor fishing / rice,General Trade,Rural
+Mymensingh,Netrokona,Madan,Agriculture,Rice / haor fishing,General Trade,Rural
+Mymensingh,Netrokona,Mohanganj,Agriculture,Rice / haor fishing / small trade,General Trade,Semi-Urban
+Mymensingh,Netrokona,Netrokona Sadar,Services,Trade / agro-processing / education,General Trade,Semi-Urban
+Mymensingh,Netrokona,Purbadhala,Agriculture,Rice farming,General Trade,Rural
+Mymensingh,Sherpur,Jhenaigati,Agriculture,Rice / hill crops / border,General Trade,Rural
+Mymensingh,Sherpur,Nakla,Agriculture,Rice & vegetable farming,General Trade,Rural
+Mymensingh,Sherpur,Nalitabari,Agriculture,Rice / hill crops / fishing,General Trade,Rural
+Mymensingh,Sherpur,Sherpur Sadar,Services,Trade / agro-processing,General Trade,Semi-Urban
+Mymensingh,Sherpur,Sreebardi,Agriculture,Rice / hill crops,General Trade,Rural

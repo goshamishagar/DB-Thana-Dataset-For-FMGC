@@ -1,0 +1,10 @@
+﻿Division,Division Code,No. of Thanas/Upazilas,Total Population (Est.),Total Area (sq km),Pop. Density (per sq km)
+Dhaka,30,127,35301000,17692.94,1995
+Chattogram,20,117,22646000,35467.7,638
+Rajshahi,50,65,13268000,15712,844
+Khulna,40,65,11863000,17040.8,696
+Sylhet,60,39,6644000,9623,690
+Barishal,10,43,6467000,12513.5,517
+Rangpur,55,58,10848000,15055,721
+Mymensingh,45,35,6896000,9399,734
+TOTAL (8 Divisions),,=SUM(C2:C9),=SUM(D2:D9),=SUM(E2:E9),"=ROUND(D10/E10,0)"

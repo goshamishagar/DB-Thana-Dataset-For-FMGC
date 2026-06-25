@@ -1,0 +1,550 @@
+﻿Division,District,Thana / Upazila,Market Classification,FMCG Trade Class,Primary Sector,Consumer Profile Tag,Likely Top FMCG Categories,Distribution Priority
+Dhaka,Dhaka,Adabor,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Badda,Urban,Mixed (GT+MT),Industry,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Bangshal,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Cantonment,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Chawkbazar,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Dakshinkhan,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Demra,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Dhanmondi,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Gulshan,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Hazaribagh,Urban,General Trade,Industry,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Jatrabari,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Kafrul,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Kadamtali,Urban,General Trade,Industry,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Kalabagan,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Kamrangirchar,Urban,General Trade,Industry,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Khilgaon,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Khilkhet,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Kotwali,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Lalbagh,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Mirpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Dhaka,Mohammadpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Dhaka,Motijheel,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Mugda,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,New Market,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Pallabi,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Paltan,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Ramna,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Rayer Bazar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Sabujbagh,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Shah Ali,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Shahjahanpur,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Shyampur,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Sutrapur,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Tejgaon,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Tejgaon Industrial Area,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Turag,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Uttara,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Dhaka,Uttarkhan,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Vatara,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Dhaka,Wari,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Dhaka,Dhaka,Dohar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Dhaka,Keraniganj,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Dhaka,Nawabganj,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Dhaka,Dhaka,Savar,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Gazipur,Gazipur Sadar,Semi-Urban,Mixed (GT+MT),Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Gazipur,Kaliakair,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Gazipur,Kaliganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Gazipur,Kapasia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Gazipur,Sreepur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Narayanganj,Araihazar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Narayanganj,Bandar,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Narayanganj,Narayanganj Sadar,Urban,Mixed (GT+MT),Industry,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Dhaka,Narayanganj,Rupganj,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Narayanganj,Sonargaon,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Narsingdi,Belabo,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Narsingdi,Monohardi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Narsingdi,Narsingdi Sadar,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Narsingdi,Palash,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Narsingdi,Raipura,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Narsingdi,Shibpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Manikganj,Daulatpur,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Manikganj,Ghior,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Manikganj,Harirampur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Manikganj,Manikganj Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Manikganj,Saturia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Manikganj,Shivalaya,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Manikganj,Singair,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Munshiganj,Gazaria,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Munshiganj,Louhajang,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Munshiganj,Munshiganj Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Munshiganj,Sirajdikhan,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Munshiganj,Sreenagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Munshiganj,Tongibari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Rajbari,Baliakandi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Rajbari,Goalandaghat,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Rajbari,Kalukhali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Rajbari,Pangsha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Rajbari,Rajbari Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Shariatpur,Bhedarganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Shariatpur,Damudya,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Shariatpur,Gosairhat,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Shariatpur,Naria,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Shariatpur,Shariatpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Shariatpur,Zanjira,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Faridpur,Alfadanga,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Bhanga,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Boalmari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Charbhadrasan,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Faridpur,Faridpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Faridpur,Madhukhali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Nagarkanda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Sadarpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Faridpur,Saltha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Gopalganj,Gopalganj Sadar,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Gopalganj,Kashiani,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Gopalganj,Kotalipara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Gopalganj,Muksudpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Gopalganj,Tungipara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Madaripur,Kalkini,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Madaripur,Madaripur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Madaripur,Rajoir,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Madaripur,Shibchar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Austagram,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Bajitpur,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Kishoreganj,Bhairab,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Kishoreganj,Hossainpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Kishoreganj,Itna,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Karimganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Kishoreganj,Katiadi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Kishoreganj,Kishoreganj Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Dhaka,Kishoreganj,Kuliarchar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Mithamain,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Nikli,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Dhaka,Kishoreganj,Pakundia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Kishoreganj,Tarail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Basail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Bhuapur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Delduar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Dhanbari,Rural,General Trade,Industry,General FMCG Consumer,"Biscuits, soap, noodles, beverages",C
+Dhaka,Tangail,Ghatail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Gopalpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Kalihati,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Madhupur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Mirzapur,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Dhaka,Tangail,Nagarpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Sakhipur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Dhaka,Tangail,Tangail Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Chattogram,Akbar Shah,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Bakalia,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Bandar,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Bayazid,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Chandgaon,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Chattogram,Chattogram,Double Mooring,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,EPZ,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Halishahar,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Khulshi,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Chattogram,Chattogram,Kotwali,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Pahartali,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Panchlaish,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Chattogram,Chattogram,Patenga,Urban,Mixed (GT+MT),Industry,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Chattogram,Chattogram,Sadarghat,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Chattogram,Chattogram,Sitakunda (urban),Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Anwara,Rural,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Banshkhali,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chattogram,Boalkhali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Chandanaish,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Fatikchhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Hathazari,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Chattogram,Lohagara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Mirsharai,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Chattogram,Patiya,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Chattogram,Rangunia,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Chattogram,Chattogram,Raozan,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Sandwip,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chattogram,Satkania,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chattogram,Sitakunda,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Cox's Bazar,Chakaria,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Chattogram,Cox's Bazar,Cox's Bazar Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Cox's Bazar,Kutubdia,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Cox's Bazar,Maheshkhali,Rural,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Cox's Bazar,Pekua,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Chattogram,Cox's Bazar,Ramu,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Cox's Bazar,Teknaf,Rural,General Trade,Services,Border / Port Trade Consumer,"Packaged food, beverages, personal care",B
+Chattogram,Cox's Bazar,Ukhia,Rural,General Trade,Services,Service Economy Consumer,"Packaged food, beverages, personal care, household",B
+Chattogram,Comilla,Barura,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Brahmanpara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Burichang,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Chandina,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Comilla,Chauddagram,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Comilla Sadar,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Chattogram,Comilla,Comilla Sadar South,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Comilla,Daudkandi,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Comilla,Debidwar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Homna,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Comilla,Laksam,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Comilla,Lalmai,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Meghna,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Comilla,Monoharganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Muradnagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Nangalkot,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Comilla,Titas,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Feni,Chhagalnaiya,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Feni,Daganbhuiyan,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Feni,Feni Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Feni,Parshuram,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Feni,Sonagazi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Feni,Fulgazi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Begumganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Chatkhil,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Companiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Hatiya,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Noakhali,Kabir Hat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Noakhali Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Noakhali,Senbagh,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Sonaimuri,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Noakhali,Subarna Char,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Lakshmipur,Kamalnagar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Lakshmipur,Lakshmipur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Lakshmipur,Ramganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Lakshmipur,Ramgati,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Lakshmipur,Roypur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chandpur,Chandpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Chandpur,Faridganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chandpur,Haimchar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chandpur,Hajiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chandpur,Kachua,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chandpur,Matlab North,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Chandpur,Matlab South,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Chandpur,Shahrasti,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Akhaura,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Brahmanbaria,Ashuganj,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Chattogram,Brahmanbaria,Bancharampur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Brahmanbaria Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Brahmanbaria,Kasba,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Nabinagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Nasirnagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Sarail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Brahmanbaria,Bijoynagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Rangamati,Baghaichhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Rangamati,Barkal,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Rangamati,Juraichhari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Rangamati,Kaptai,Rural,General Trade,Industry,General FMCG Consumer,"Biscuits, soap, noodles, beverages",C
+Chattogram,Rangamati,Kaukhali,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Chattogram,Rangamati,Langadu,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Rangamati,Naniarchar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Rangamati,Rajasthali,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Chattogram,Rangamati,Rangamati Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Rangamati,Bilaichhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Khagrachhari,Dighinala,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Khagrachhari,Guimara,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Chattogram,Khagrachhari,Khagrachhari Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Khagrachhari,Lakshmichhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Khagrachhari,Mahalchhari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Chattogram,Khagrachhari,Manikchhari,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Chattogram,Khagrachhari,Matiranga,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Chattogram,Khagrachhari,Panchhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Khagrachhari,Ramgarh,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Bandarban,Ali Kadam,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Bandarban,Bandarban Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Chattogram,Bandarban,Lama,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Chattogram,Bandarban,Naikhongchhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Bandarban,Rowangchhari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Bandarban,Ruma,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Chattogram,Bandarban,Thanchi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Rajshahi,Boalia,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Rajshahi,Rajshahi,Motihar,Urban,Modern Trade,Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Rajshahi,Rajshahi,Rajpara,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Rajshahi,Rajshahi,Shah Makhdum,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Rajshahi,Rajshahi,Bagha,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Rajshahi,Bagmara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Rajshahi,Charghat,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Rajshahi,Durgapur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rajshahi,Rajshahi,Godagari,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Rajshahi,Mohanpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Rajshahi,Paba,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Rajshahi,Puthia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Rajshahi,Tanore,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Bogura,Adamdighi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Bogura Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Bogura,Dhunat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Dhupchanchia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Gabtali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Kahaloo,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Nandigram,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Sariakandi,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rajshahi,Bogura,Shajahanpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Sherpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Bogura,Shibganj,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Bogura,Sonatala,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Chapai Nawabganj,Bholahat,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Chapai Nawabganj,Chapai Nawabganj Sadar,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Chapai Nawabganj,Gomastapur,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Chapai Nawabganj,Nachole,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Chapai Nawabganj,Shibganj,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rajshahi,Naogaon,Atrai,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Badalgachhi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Dhamoirhat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Mahadebpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Manda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Mohadevpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Naogaon Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Naogaon,Niamatpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Patnitala,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Porsha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Naogaon,Raninagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Natore,Bagatipara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Natore,Baraigram,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Natore,Gurudaspur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Natore,Lalpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Natore,Natore Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Natore,Singra,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Atgharia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Bera,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Bhangura,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Chatmohar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Faridpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Ishwardi,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Rajshahi,Pabna,Pabna Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Pabna,Santhia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Pabna,Sujanagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Sirajganj,Belkuchi,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Sirajganj,Chauhali,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rajshahi,Sirajganj,Kamarkhanda,Rural,General Trade,Industry,General FMCG Consumer,"Biscuits, soap, noodles, beverages",C
+Rajshahi,Sirajganj,Kazipur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rajshahi,Sirajganj,Raiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Sirajganj,Shahjadpur,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Sirajganj,Sirajganj Sadar,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rajshahi,Sirajganj,Tarash,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rajshahi,Sirajganj,Ullahpara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Khulna,Daulatpur,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Khulna,Khan Jahan Ali,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Khulna,Khulna,Khalishpur,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Khulna,Khulna Sadar,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Khulna,Khulna,Sonadanga,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Khulna,Khulna,Aira,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Khulna,Batiaghata,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Khulna,Dacope,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Khulna,Dighalia,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Khulna,Dumuria,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Khulna,Koyra,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Khulna,Paikgachha,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Khulna,Phultala,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Khulna,Rupsha,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Khulna,Terokhada,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Bagerhat,Bagerhat Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Bagerhat,Chitalmari,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Bagerhat,Fakirhat,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Bagerhat,Kachua,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Bagerhat,Mollahat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Bagerhat,Mongla,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Bagerhat,Morrelganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Bagerhat,Rampal,Rural,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Bagerhat,Sarankhola,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Satkhira,Assasuni,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Satkhira,Debhata,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Satkhira,Kalaroa,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Satkhira,Kaliganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Satkhira,Satkhira Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Satkhira,Shyamnagar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Satkhira,Tala,Rural,General Trade,Agriculture,Coastal Aquaculture Community,"Basic food, soap, salt, mosquito coil, household essentials",C
+Khulna,Jessore,Abhaynagor,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Jessore,Bagherpara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jessore,Chaugachha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jessore,Jhikargachha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jessore,Jessore Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Jessore,Keshabpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jessore,Manirampur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jessore,Sharsha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Narail,Kalia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Narail,Lohagara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Narail,Narail Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Magura,Magura Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Magura,Mohammadpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Magura,Shalikha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Magura,Sreepur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jhenaidah,Harinakunda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jhenaidah,Jhenaidah Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Jhenaidah,Kaliganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Khulna,Jhenaidah,Kotchandpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jhenaidah,Maheshpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Jhenaidah,Shailkupa,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Kushtia,Bheramara,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Kushtia,Daulatpur,Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Khulna,Kushtia,Khoksa,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Kushtia,Kumarkhali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Kushtia,Kushtia Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Kushtia,Mirpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Meherpur,Gangni,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Meherpur,Meherpur Sadar,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Meherpur,Mujib Nagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Chuadanga,Alamdanga,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Chuadanga,Chuadanga Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Khulna,Chuadanga,Damurhuda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Khulna,Chuadanga,Jibannagar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Sylhet,Sylhet,Balaganj,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Sylhet,Beanibazar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Sylhet,Bishwanath,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Sylhet,Companiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Sylhet,Sylhet,Fenchuganj,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Sylhet,Sylhet,Golapganj,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Sylhet,Gowainghat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Sylhet,Sylhet,Jaintiapur,Rural,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Sylhet,Sylhet,Kanaighat,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Sylhet,Osmani Nagar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Sylhet,Sylhet Sadar,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Sylhet,Sylhet,Zakiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Sylhet,Sylhet,South Surma,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Moulvibazar,Barlekha,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Moulvibazar,Juri,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Moulvibazar,Kamalganj,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Moulvibazar,Kulaura,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Moulvibazar,Moulvibazar Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Moulvibazar,Rajnagar,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Moulvibazar,Sreemangal,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Habiganj,Ajmiriganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Habiganj,Bahubal,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Habiganj,Baniachong,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Habiganj,Chunarughat,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Habiganj,Habiganj Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Habiganj,Lakhai,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Habiganj,Madhabpur,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Sylhet,Habiganj,Nabiganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Bishwamvarpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Chhatak,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Sylhet,Sunamganj,Derai,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Dharampasha,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Dowarabazar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Sylhet,Sunamganj,Jagannathpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Jamalganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Sulla,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Sunamganj Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Sylhet,Sunamganj,Tahirpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Sylhet,Sunamganj,Shalla,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Barishal Sadar,Urban,Mixed (GT+MT),Services,Premium Urban Consumer,"Personal care, packaged food, beverages, household care",A
+Barishal,Barishal,Airport,Urban,General Trade,Services,Urban GT Shopper,"Packaged food, beverages, personal care, household",A
+Barishal,Barishal,Banaripara,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Babuganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Barishal,Bakerganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Belhara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Barishal,Gaurnadi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Barishal,Hizla,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Mehendiganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Muladi,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barishal,Wazirpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Bhola,Bhola Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Barishal,Bhola,Burhanuddin,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Bhola,Char Fasson,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Bhola,Daulatkhan,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Bhola,Lalmohan,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Bhola,Manpura,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Bhola,Tazumuddin,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Bauphal,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Dashmina,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Dumki,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Patuakhali,Galachipa,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Kalapara,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Mirzaganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Patuakhali,Patuakhali Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Barishal,Patuakhali,Rangabali,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Pirojpur,Bhandaria,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Pirojpur,Kawkhali,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Pirojpur,Mathbaria,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Pirojpur,Nazirpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Pirojpur,Nesarabad,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Pirojpur,Pirojpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Barishal,Pirojpur,Zianagar,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Jhalokati,Jhalokati Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Barishal,Jhalokati,Kathalia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Jhalokati,Nalchity,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Jhalokati,Rajapur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Barguna,Amtali,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barguna,Bamna,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barguna,Barguna Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Barishal,Barguna,Betagi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Barishal,Barguna,Pathorghata,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Barishal,Barguna,Taltali,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Rangpur,Rangpur Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Rangpur,Badarganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Gangachara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Kaunia,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Mithapukur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Pirgachha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Pirganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Rangpur,Taraganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Birampur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Birganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Biral,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Bochaganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Chirirbandar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Dinajpur Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Dinajpur,Fulbari,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Rangpur,Dinajpur,Ghoraghat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Hakimpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Kaharole,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Khansama,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Dinajpur,Nawabganj,Rural,General Trade,Agriculture,Agri-Surplus Rural Consumer,"Biscuits, soap, hair oil, beverages, noodles",B
+Rangpur,Dinajpur,Parbatipur,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Gaibandha,Fulchhari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Gaibandha,Gaibandha Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Gaibandha,Gobindaganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Gaibandha,Palashbari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Gaibandha,Sadullapur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Gaibandha,Saghata,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Gaibandha,Sundarganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Kurigram,Bhurungamari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Kurigram,Char Rajibpur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Kurigram,Chilmari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Kurigram,Kurigram Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Kurigram,Nageshwari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Kurigram,Phulbari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Kurigram,Rajarhat,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Kurigram,Raumari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Kurigram,Ulipur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Lalmonirhat,Aditmari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Lalmonirhat,Hatibandha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Lalmonirhat,Kaliganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Lalmonirhat,Patgram,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Nilphamari,Dimla,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Nilphamari,Domar,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Nilphamari,Jaldhaka,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Nilphamari,Kishoreganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Nilphamari,Nilphamari Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Nilphamari,Saidpur,Semi-Urban,Mixed (GT+MT),Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Panchagarh,Atwari,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Panchagarh,Boda,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Rangpur,Panchagarh,Debiganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Panchagarh,Panchagarh Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Rangpur,Panchagarh,Tetulia,Rural,General Trade,Agriculture,Tea Belt Rural Consumer,"Tea, biscuits, soaps, hair oil, noodles",B
+Rangpur,Thakurgaon,Baliadangi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Thakurgaon,Haripur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Thakurgaon,Pirganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Thakurgaon,Ranisankail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Rangpur,Thakurgaon,Thakurgaon Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Mymensingh,Bhaluka,Semi-Urban,Industrial GT,Industry,Industrial Worker / Blue-Collar,"Biscuits, noodles, low-cost beverages, soaps, mosquito coil",B
+Mymensingh,Mymensingh,Dhobaura,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Fulbaria,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Gaffargaon,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Gauripur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Haluaghat,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Mymensingh,Ishwarganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Muktagachha,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Mymensingh,Mymensingh Sadar,Semi-Urban,Mixed (GT+MT),Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Mymensingh,Nandail,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Phulpur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Trishal,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Mymensingh,Tarakanda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Jamalpur,Bakshiganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Jamalpur,Dewanganj,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Jamalpur,Islampur,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Jamalpur,Jamalpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Jamalpur,Madarganj,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Jamalpur,Melandaha,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Jamalpur,Sarishabari,Semi-Urban,General Trade,Industry,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Netrokona,Atpara,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Netrokona,Barhatta,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Netrokona,Durgapur,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Netrokona,Kalmakanda,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Netrokona,Kendua,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Netrokona,Khaliajuri,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Netrokona,Madan,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Netrokona,Mohanganj,Semi-Urban,General Trade,Agriculture,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Netrokona,Netrokona Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Netrokona,Purbadhala,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Sherpur,Jhenaigati,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Sherpur,Nakla,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
+Mymensingh,Sherpur,Nalitabari,Rural,General Trade,Agriculture,Riverine / Haor Rural Consumer,"Dried fish, rice-based snacks, soap, matches, basic FMCG",C
+Mymensingh,Sherpur,Sherpur Sadar,Semi-Urban,General Trade,Services,Aspiring Semi-Urban Buyer,"Packaged food, soap, hair oil, biscuits, noodles, beverages",A
+Mymensingh,Sherpur,Sreebardi,Rural,General Trade,Agriculture,Mass Rural Consumer,"Biscuits, soap, salt, matches, hair oil, basic toiletries",C
