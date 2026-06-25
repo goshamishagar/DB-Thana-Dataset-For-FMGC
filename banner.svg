@@ -1,0 +1,112 @@
+<svg width="1800" height="640" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Bangladesh Thana-Level Reference Dataset — FMCG Analytics Banner</title>
+<desc>Bangladesh flag with accurate country map beside the red disc and dataset title on the right</desc>
+
+<!-- ── Clean Bangladesh flag ── -->
+<rect width="900" height="320" fill="#006A4E"/>
+<circle cx="390" cy="160" r="120" fill="#F42A41"/>
+
+<!-- Right panel dark overlay for text readability -->
+<rect x="530" y="0" width="370" height="320" fill="#000000" fill-opacity="0.40"/>
+<rect x="0"   y="0"   width="900" height="48"  fill="#000000" fill-opacity="0.14"/>
+<rect x="0"   y="272" width="900" height="48"  fill="#000000" fill-opacity="0.14"/>
+
+<!-- ── REAL Bangladesh map boundary ── -->
+<!-- Scaled to fit x:18–255, y:22–296 — entirely LEFT of red disc (disc edge at x=270) -->
+<path
+  fill="#004d38" fill-opacity="0.90"
+  stroke="#7eedc7" stroke-width="1.0" stroke-opacity="0.60"
+  d="M 25.2,33.7 L 30.4,27.5 L 42.8,25.0 L 48.0,30.1 L 58.9,37.7
+     L 70.3,35.2 L 80.6,50.5 L 92.5,56.6 L 102.9,51.5 L 115.3,59.6
+     L 123.6,58.1 L 136.1,62.7 L 151.6,70.9 L 160.9,67.8 L 172.3,76.0
+     L 185.8,86.1 L 198.3,98.4 L 206.5,96.3 L 213.8,103.5 L 224.2,113.7
+     L 233.5,126.9 L 239.7,139.1 L 244.9,152.4 L 248.0,162.6 L 242.8,172.8
+     L 237.6,185.0 L 227.3,193.1 L 219.0,205.4 L 211.7,215.6 L 206.5,228.8
+     L 201.4,239.0 L 196.2,249.2 L 191.0,257.9 L 182.7,266.5 L 176.5,274.7
+     L 170.3,283.3 L 162.0,292.0 L 156.8,279.8 L 151.6,264.5 L 144.4,254.3
+     L 136.1,244.1 L 128.8,233.9 L 120.5,239.0 L 110.2,246.1 L 99.8,256.3
+     L 89.4,264.5 L 79.1,256.3 L 71.8,246.1 L 63.5,236.0 L 57.3,223.7
+     L 53.2,210.5 L 48.0,198.2 L 40.7,185.0 L 32.4,172.8 L 25.2,159.5
+     L 22.1,147.3 L 27.3,132.0 L 22.1,121.8 L 20.0,108.6 L 25.2,96.3
+     L 30.4,83.1 L 22.1,70.9 L 20.0,57.6 L 25.2,45.4 Z"
+/>
+
+<!-- River lines — Jamuna / Padma / Meghna -->
+<path fill="none" stroke="#4dd9ac" stroke-width="1.0" stroke-opacity="0.40"
+  d="M 115,60 Q 128,100 132,140 Q 136,175 130,210"/>
+<path fill="none" stroke="#4dd9ac" stroke-width="0.9" stroke-opacity="0.32"
+  d="M 145,72 Q 148,110 148,150 Q 148,185 145,220"/>
+<path fill="none" stroke="#4dd9ac" stroke-width="0.8" stroke-opacity="0.28"
+  d="M 130,210 Q 138,230 148,245 Q 158,258 162,275"/>
+
+<!-- City dots -->
+<!-- Dhaka -->
+<circle cx="145.4" cy="168.7" r="5.5" fill="#F42A41" opacity="0.95"/>
+<circle cx="145.4" cy="168.7" r="10"  fill="#F42A41" fill-opacity="0.18"/>
+<text x="154" y="165" font-family="Arial,sans-serif" font-size="9.5" fill="#ffffff" font-weight="700">Dhaka</text>
+
+<!-- Chattogram -->
+<circle cx="217.9" cy="245.1" r="3.5" fill="#ffffff" opacity="0.80"/>
+<text x="222" y="242" font-family="Arial,sans-serif" font-size="8" fill="#ffffff" opacity="0.78">Ctg</text>
+
+<!-- Khulna -->
+<circle cx="98.8" cy="219.6" r="3" fill="#ffffff" opacity="0.72"/>
+<text x="103" y="217" font-family="Arial,sans-serif" font-size="8" fill="#ffffff" opacity="0.70">Khulna</text>
+
+<!-- Rajshahi -->
+<circle cx="52.1" cy="138.1" r="3" fill="#ffffff" opacity="0.72"/>
+<text x="57" y="135" font-family="Arial,sans-serif" font-size="8" fill="#ffffff" opacity="0.70">Rajshahi</text>
+
+<!-- Sylhet -->
+<circle cx="223.1" cy="112.6" r="3" fill="#ffffff" opacity="0.72"/>
+<text x="228" y="110" font-family="Arial,sans-serif" font-size="8" fill="#ffffff" opacity="0.70">Sylhet</text>
+
+<!-- Barishal -->
+<circle cx="145.4" cy="224.7" r="3" fill="#ffffff" opacity="0.68"/>
+
+<!-- Divider between flag and text -->
+<line x1="532" y1="22" x2="532" y2="298"
+  stroke="#ffffff" stroke-opacity="0.12" stroke-width="0.8" stroke-dasharray="5 4"/>
+
+<!-- ── Right panel: text ── -->
+<text x="716" y="74"
+  font-family="Arial,sans-serif" font-size="11" fill="#7eedc7"
+  font-weight="500" letter-spacing="2.2" text-anchor="middle">
+  BANGLADESH · FMCG ANALYTICS
+</text>
+<text x="716" y="120"
+  font-family="Arial,sans-serif" font-size="29" fill="#ffffff"
+  font-weight="700" text-anchor="middle">Thana-Level</text>
+<text x="716" y="158"
+  font-family="Arial,sans-serif" font-size="29" fill="#F42A41"
+  font-weight="700" text-anchor="middle">Reference Dataset</text>
+<text x="716" y="184"
+  font-family="Arial,sans-serif" font-size="11" fill="#a8e6cf"
+  text-anchor="middle">Population · Economic Activity · FMCG Profile</text>
+
+<!-- Stat pills -->
+<rect x="548" y="198" width="72" height="34" rx="6" fill="#ffffff" fill-opacity="0.13"/>
+<text x="584" y="211" font-family="Arial,sans-serif" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle">549</text>
+<text x="584" y="226" font-family="Arial,sans-serif" font-size="9"  fill="#a8e6cf" text-anchor="middle">Thanas</text>
+
+<rect x="628" y="198" width="72" height="34" rx="6" fill="#ffffff" fill-opacity="0.13"/>
+<text x="664" y="211" font-family="Arial,sans-serif" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle">8</text>
+<text x="664" y="226" font-family="Arial,sans-serif" font-size="9"  fill="#a8e6cf" text-anchor="middle">Divisions</text>
+
+<rect x="708" y="198" width="72" height="34" rx="6" fill="#ffffff" fill-opacity="0.13"/>
+<text x="744" y="211" font-family="Arial,sans-serif" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle">63</text>
+<text x="744" y="226" font-family="Arial,sans-serif" font-size="9"  fill="#a8e6cf" text-anchor="middle">Districts</text>
+
+<rect x="788" y="198" width="90" height="34" rx="6" fill="#F42A41" fill-opacity="0.90"/>
+<text x="833" y="211" font-family="Arial,sans-serif" font-size="10" fill="#ffffff" font-weight="700" text-anchor="middle">FMCG Profiled</text>
+<text x="833" y="226" font-family="Arial,sans-serif" font-size="9"  fill="#ffe0e0" text-anchor="middle">All 549 Thanas</text>
+
+<!-- Bottom bar -->
+<rect x="0" y="292" width="900" height="28" fill="#000000" fill-opacity="0.22"/>
+<text x="450" y="310"
+  font-family="Arial,sans-serif" font-size="9" fill="#7eedc7"
+  text-anchor="middle" opacity="0.78" letter-spacing="0.8">
+  github.com/shagargoshami/bd-thana-dataset  ·  CC BY 4.0  ·  Data: BBS Census 2022
+</text>
+
+</svg>
