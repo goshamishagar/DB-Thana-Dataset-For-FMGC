@@ -142,11 +142,11 @@ print(df[(df["Division"]=="Dhaka") & (df["Distribution Priority"]=="A")]
 
 <p align="center">
   <b>Shagar Goshami</b><br/>
-  <a href="https://linkedin.com/in/shagargoshami">
+  <a href="https://linkedin.com/in/shagar-goshami">
     <img src="https://img.shields.io/badge/LinkedIn-shagargoshami-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/shagargoshami">
+  <a href="https://github.com/goshamishagar">
     <img src="https://img.shields.io/badge/GitHub-shagargoshami-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
 </p>
