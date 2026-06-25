@@ -1,4 +1,4 @@
-![Bangladesh Thana Dataset Banner](docs/banner.svg)
+![Bangladesh Thana Dataset Banner](banner.svg)
 
 <p align="center">
   <a href="data/thana_reference.csv"><img src="https://img.shields.io/badge/Thanas%20Covered-549-2980B9?style=flat-square" alt="Thanas"/></a>
@@ -142,7 +142,6 @@ print(df[(df["Division"]=="Dhaka") & (df["Distribution Priority"]=="A")]
 
 <p align="center">
   <b>Shagar Goshami</b><br/>
-  Executive – Sales Operations | FMCG MIS & Analytics<br/><br/>
   <a href="https://linkedin.com/in/shagargoshami">
     <img src="https://img.shields.io/badge/LinkedIn-shagargoshami-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
